@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="percent" type="dimen">10%</item>
+    <item name="porcent" type="dimen">35%</item>
+    <item name="percet" type="dimen">65%</item>
+</resources>
